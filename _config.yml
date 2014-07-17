@@ -1,0 +1,12 @@
+# Site settings
+title: Another Lame Blog
+email: mattpauljones@gmail.com
+description: "Yet another lame blog for people with no lives to read."
+baseurl: ""
+url: "http://yourdomain.com"
+twitter_username: mattpauljones
+github_username:  jonesyguy3
+
+# Build settings
+markdown: kramdown
+permalink: pretty
