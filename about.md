@@ -4,8 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+  <h2> All about me: </h2>
+         <p> In west Philadelphia born and raised
+On the playground was where I spent most of my days
+Chillin' out maxin' relaxin' all cool
+And all shootin some b-ball outside of the school
+When a couple of guys who were up to no good
+Started making trouble in my neighborhood
+I got in one little fight and my mom got scared
+She said 'You're movin' with your auntie and uncle in Bel Air' </p>
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+<p> Fun Facts </p>
+<ul>
+    <li> An iPhone 5S has 1,300 times more processing power than the computer that landed Apollo 11 on the moon. </li>
+    <li> A pound of any combination of dimes, quarters, and half-dollars is worth $20. </li>
+    <li> The last time the Chicago Cubs won the World Series, the Ottoman Empire still existed</li>
