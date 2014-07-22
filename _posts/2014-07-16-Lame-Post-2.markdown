@@ -2,7 +2,7 @@
 layout: post
 title:  "Lame Post 2"
 date:   2014-07-16 19:45:00
-categories: lame posts
+categories: Lame Posts
 ---
 
 This is just a test to see how Jekyll is working. In truth I'll probably cheat after this class is over and use a CMS, but probably not Wordpress because those are lame, maybe joomla. I still appreciate this though to understand the full scope of things while I'm learning. Later on I'll take shortcuts.

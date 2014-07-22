@@ -1,11 +1,12 @@
 # Site settings
-title: Another Lame Blog
-email: mattpauljones@gmail.com
-description: "Yet another lame blog for people with no lives to read."
+title: Matt Jones' UT Blog 
+email: matthew.p.jones@mba16.mccombs.utexas.edu
+description: "Check-ins from a first year MBA student"
 baseurl: ""
 url: "http://yourdomain.com"
 twitter_username: mattpauljones
 github_username:  jonesyguy3
+linkedin_username: matthewpauljones
 
 # Build settings
 markdown: kramdown
